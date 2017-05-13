@@ -1,0 +1,7 @@
+#Tue May 02 01:09:22 CDT 2017
+base.0=C\:\\Users\\maste\\Desktop\\Android-CardViewRecyclerView-master\\Ubidots\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_677d8e5100b5559e1c9b04339a530413422aaceb
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=C\:\\Users\\maste\\Desktop\\Android-CardViewRecyclerView-master\\Ubidots\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_32aab399e20826076ab88c53a94ad5ba41a01afc\\classes.dex
+base.1=C\:\\Users\\maste\\Desktop\\Android-CardViewRecyclerView-master\\Ubidots\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_32aab399e20826076ab88c53a94ad5ba41a01afc
+file.0=C\:\\Users\\maste\\Desktop\\Android-CardViewRecyclerView-master\\Ubidots\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_677d8e5100b5559e1c9b04339a530413422aaceb\\classes.dex

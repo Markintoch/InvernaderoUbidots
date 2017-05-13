@@ -36,14 +36,6 @@ public class Menu extends Activity {
                 startActivity(i);
             }
         });
-        findViewById(R.id.Guia).setOnClickListener(new View.OnClickListener(){
-            @Override
-            public void onClick(View v) {
-
-                Intent i = new Intent(Menu.this, GuiaRapida.class);
-                startActivity(i);
-            }
-        });
     }
 
 }

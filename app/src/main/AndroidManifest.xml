@@ -25,9 +25,6 @@
             android:name=".Temperatura"
             android:screenOrientation="portrait" />
         <activity
-            android:name=".GuiaRapida"
-            android:label="Guia Rapida" />
-        <activity
             android:name=".SplashScreen"
             android:screenOrientation="portrait"
             android:theme="@android:style/Theme.NoTitleBar.Fullscreen">

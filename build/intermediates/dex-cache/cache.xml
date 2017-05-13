@@ -1,0 +1,185 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\maste\Desktop\Android-CardViewRecyclerView-master\Ubidots\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="43b2dba6b5a0b14527961b75329d0b90025f15ea">
+        <dex dex="C:\Users\maste\Desktop\Android-CardViewRecyclerView-master\Ubidots\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-24.2.1_0ceb24db8262a4396a00c59719d903a358b3d3e7\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\maste\Desktop\Android-CardViewRecyclerView-master\Ubidots\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="7e4389bd133359a2ff88623ff1e4ff93d6e6f780">
+        <dex dex="C:\Users\maste\Desktop\Android-CardViewRecyclerView-master\Ubidots\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_fd587ee6121ac85a745aa6b906dea2846b587122\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\maste\Desktop\Android-CardViewRecyclerView-master\Ubidots\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="6efd0ccae005b7141cda5a9f7dbdb92312cf5245">
+        <dex dex="C:\Users\maste\Desktop\Android-CardViewRecyclerView-master\Ubidots\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_677d8e5100b5559e1c9b04339a530413422aaceb\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\maste\Desktop\Android-CardViewRecyclerView-master\Ubidots\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="5f64d657e838e8375135c0f6057a7ff8fab6a50e">
+        <dex dex="C:\Users\maste\Desktop\Android-CardViewRecyclerView-master\Ubidots\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_0e85861b9061be220d861c38bd8535057bf9ea0c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\maste\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\24.2.1\support-annotations-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="8de3aafecbdf98a61db6427f008f2d515bcd2544">
+        <dex dex="C:\Users\maste\Desktop\Android-CardViewRecyclerView-master\Ubidots\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-24.2.1_443e0f70fb584e0de2cac11bb9b42af421825999\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\maste\.gradle\caches\modules-2\files-2.1\com.google.code.gson\gson\2.4\695b63d702f505b9b916e02272e3b6381bade7f\gson-2.4.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="0695b63d702f505b9b916e02272e3b6381bade7f">
+        <dex dex="C:\Users\maste\Desktop\Android-CardViewRecyclerView-master\Ubidots\app\build\intermediates\transforms\dex\debug\folders\1000\10\gson-2.4_958e3189aaa5d9d12ef7795fadf45db4dca10538\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\maste\Desktop\Android-CardViewRecyclerView-master\Ubidots\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="94bc1dfb84dcc8b6f6f8f7cc726d7b2dd39c1574">
+        <dex dex="C:\Users\maste\Desktop\Android-CardViewRecyclerView-master\Ubidots\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-animated-vector-drawable-24.2.1_0ca69d1835ee57faad1ba813f9aceabe2a504389\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\maste\Desktop\Android-CardViewRecyclerView-master\Ubidots\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="9c4c3bc902450c39ed54de170db4fb12aea20a35">
+        <dex dex="C:\Users\maste\Desktop\Android-CardViewRecyclerView-master\Ubidots\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-utils-24.2.1_7329d134b053a8b42c603ddb008c0aa1e88e4f26\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\maste\Desktop\Android-CardViewRecyclerView-master\Ubidots\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="97ba5da59cc847ca485d36222a7ba8188eab00b1">
+        <dex dex="C:\Users\maste\Desktop\Android-CardViewRecyclerView-master\Ubidots\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_32aab399e20826076ab88c53a94ad5ba41a01afc\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\maste\.gradle\caches\modules-2\files-2.1\org.apache.httpcomponents\httpcore\4.3.2\31fbbff1ddbf98f3aa7377c94d33b0447c646b6e\httpcore-4.3.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="31fbbff1ddbf98f3aa7377c94d33b0447c646b6e">
+        <dex dex="C:\Users\maste\Desktop\Android-CardViewRecyclerView-master\Ubidots\app\build\intermediates\transforms\dex\debug\folders\1000\10\httpcore-4.3.2_e6dc3a2a5daebb8fa8e2b8afd9be2bfbeb2844cd\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\maste\Desktop\Android-CardViewRecyclerView-master\Ubidots\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\maste\Desktop\Android-CardViewRecyclerView-master\Ubidots\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-24.2.1_b219c52e151051524727134e33c594793c7fe6a6\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\maste\Desktop\Android-CardViewRecyclerView-master\Ubidots\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="935a969265b2a166b2d20415423f5f6e90fe16e0">
+        <dex dex="C:\Users\maste\Desktop\Android-CardViewRecyclerView-master\Ubidots\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_21a18be24c68b56770ee2e8b267f2e7b75e30a48\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\maste\Desktop\Android-CardViewRecyclerView-master\Ubidots\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="867dad63c33388ff8c7644b236579355036d075f">
+        <dex dex="C:\Users\maste\Desktop\Android-CardViewRecyclerView-master\Ubidots\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_1de374adf03fe1f94725479b891eda18cf846b99\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\maste\Desktop\Android-CardViewRecyclerView-master\Ubidots\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="b9a1ac78ad7ef3abedc4a4b30cd92bcacb939d1f">
+        <dex dex="C:\Users\maste\Desktop\Android-CardViewRecyclerView-master\Ubidots\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-fragment-24.2.1_2a08115cc04a83ba2f62c54f1438811e8574524a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\maste\Desktop\Android-CardViewRecyclerView-master\Ubidots\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="fbf8da429efd5ad21e02e3e5ecaa1efc4167878d">
+        <dex dex="C:\Users\maste\Desktop\Android-CardViewRecyclerView-master\Ubidots\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_1788eaab2d3811fd73f23f553e728246d50c38f0\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\maste\Desktop\Android-CardViewRecyclerView-master\Ubidots\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="09b462bbcb77650284bd6614f1a32f360ef369f8">
+        <dex dex="C:\Users\maste\Desktop\Android-CardViewRecyclerView-master\Ubidots\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-media-compat-24.2.1_be8414e6f8764ce1693500baeb0033b3d932db5f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\maste\Desktop\Android-CardViewRecyclerView-master\Ubidots\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="d5c731fc64c03dfe04d51134955b483551c35849">
+        <dex dex="C:\Users\maste\Desktop\Android-CardViewRecyclerView-master\Ubidots\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-vector-drawable-24.2.1_50e5d16b8ce29b3dc06e5289aaa50ff2d1c4cc1e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\maste\Desktop\Android-CardViewRecyclerView-master\Ubidots\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="e7f3132168957eefc46229fc32c3bd464642b71e">
+        <dex dex="C:\Users\maste\Desktop\Android-CardViewRecyclerView-master\Ubidots\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-ui-24.2.1_3d7267c3fceb503790a7937e69d21ec0f7605c9e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\maste\.gradle\caches\modules-2\files-2.1\com.ubidots\ubidots-java\1.6.4\2b1e7fba7e61a2988c60bd8c85059d7aec6e7518\ubidots-java-1.6.4.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="2b1e7fba7e61a2988c60bd8c85059d7aec6e7518">
+        <dex dex="C:\Users\maste\Desktop\Android-CardViewRecyclerView-master\Ubidots\app\build\intermediates\transforms\dex\debug\folders\1000\10\ubidots-java-1.6.4_88bb4728c1105c9d55c17d3e245010e824f6ce19\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\maste\Desktop\Android-CardViewRecyclerView-master\Ubidots\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="0ecb4b595fa0f0f8018a149ace3ea6525624f94e">
+        <dex dex="C:\Users\maste\Desktop\Android-CardViewRecyclerView-master\Ubidots\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-compat-24.2.1_342473598c0d782c90c7c74c52066cf076f4fb6c\classes.dex" />
+    </item>
+
+</items>
